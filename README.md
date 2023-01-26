@@ -1,6 +1,7 @@
 # Minesweeper-
 
 GUI-based Minesweeper variation coded on C++ for university semester project for the course of Object Oriented Programming. 
+
 GUI made using SFML 2.0 libraries and spritepng of the original game.
 Basic main menu edited using MS-Paint.
 
